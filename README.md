@@ -21,5 +21,3 @@ HTML · CSS · JavaScript
 ## 👨‍💻 Developer
 Ali Raza Ansari
 ```
-
-Copy karo aur GitHub pe paste kar do! ✅
